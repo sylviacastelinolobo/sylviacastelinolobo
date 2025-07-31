@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sylviacastelinolobo
 - 👀 I’m interested in DevOps, Integration and web/mobile applications
-- 🌱 I’m currently learning GCP,AWS,Azure
+- 🌱 I’m currently proficient in GCP,AWS,Azure
 - 💞️ I’m looking to collaborate on GCP,AWS,Azure
 - 📫 How to reach me sylvia090@homail.com
 
